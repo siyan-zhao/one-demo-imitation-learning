@@ -1,0 +1,21 @@
+MuJoCo Pro Lab license activation key, number 6757, type 6.
+
+Issued to Vector Institute for Artificial Intelligence.
+
+Expires August 15, 2020.
+
+Do not share this file with anyone other than the users covered
+by your license agreement with Roboti LLC. This file activates
+MuJoCo Pro on any computer running any supported OS.
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+f26900218f4e603cd0857f962b9032a2f19b8abd1c69264bac44b78553a6bfde
+10a902a6ad4ea435d2a8b17100a5a7c2ed9ed7e82eb5ee4e93171382c7408673
+8b9d00f89c4177a4e52bb2afe7e0f9914250cbfab044b4d327dd0bb4b6599128
+2ab76f2e9822f9e66059d37f9b20d6509675d4495899388d04212c864e7547c3
+40e160410b23eb15e8518d055780bbeb3ec49a6d7d9133edff6c765f9c0fc60b
+506d2e1385b7a7914817aee842f50e70892c919cfb3863befe8d77fc6d0dc82b
+0b4eeb84ca4cdd0a1803ca8a6ac475b9a248ba0dcb5375616b662dd6e7af99b8
+cd979dabbce7fa8a74958efeb0943f44621eb9e2546790ac3e8ba804a99217a5
