@@ -32,6 +32,7 @@ def init_tf():
 
 
 
+    
 def compute_kl_two_normals(n1_mean, n1_var, n2_mean, n2_var):
     #  this is the formula for the KL between two normal distributions.
     n1_var = n1_var + 0.01
