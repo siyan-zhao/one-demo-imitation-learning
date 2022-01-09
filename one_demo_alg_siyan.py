@@ -30,6 +30,7 @@ def rollout(pol, env, horizon=700, render=False):
     return states, actions, rews
 
 
+
 def rollout_eval(pol, env, horizon=700, render=False):
     states, actions, rews = [], [], []
     s = env.reset()
