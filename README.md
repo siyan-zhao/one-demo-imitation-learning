@@ -1,4 +1,4 @@
-# KICK-ASS-PROJECT
+# One demostration imitation learning
 
 ## How to run: 
 
