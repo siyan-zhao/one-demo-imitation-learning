@@ -10,5 +10,5 @@ Follow the installation instructions,
 including copying `mjkey.txt` from this repo 
 to the right location. 
 
-2) Just run `cyl.py`. It should 
+2) run `one_demo_alg_v2.py`. It should 
 work without issue. 
